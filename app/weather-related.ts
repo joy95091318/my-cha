@@ -1,0 +1,1 @@
+export type Weather={date:string;low:number|null;high:number|null;popLow:number|null;popHigh:number|null;wind:number|null;description:string;retrievedAt:string;source:string;windowStart:string;windowEnd:string;temperatureBasis:string;popStart:string|null;popEnd:string|null};
